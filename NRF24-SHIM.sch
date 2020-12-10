@@ -57164,6 +57164,8 @@ by default</text>
 <pinref part="SJ1" gate="G$1" pin="1"/>
 <wire x1="195.58" y1="134.62" x2="187.96" y2="134.62" width="0.1524" layer="91"/>
 <label x="187.96" y="134.62" size="1.778" layer="95"/>
+<wire x1="195.58" y1="134.62" x2="200.66" y2="134.62" width="0.1524" layer="91"/>
+<junction x="195.58" y="134.62"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="12"/>
@@ -57198,6 +57200,8 @@ by default</text>
 <pinref part="SJ2" gate="G$1" pin="1"/>
 <wire x1="233.68" y1="134.62" x2="226.06" y2="134.62" width="0.1524" layer="91"/>
 <label x="226.06" y="134.62" size="1.778" layer="95"/>
+<wire x1="233.68" y1="134.62" x2="238.76" y2="134.62" width="0.1524" layer="91"/>
+<junction x="233.68" y="134.62"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="10"/>
@@ -57232,6 +57236,8 @@ by default</text>
 <pinref part="SJ3" gate="G$1" pin="1"/>
 <wire x1="195.58" y1="114.3" x2="187.96" y2="114.3" width="0.1524" layer="91"/>
 <label x="187.96" y="114.3" size="1.778" layer="95"/>
+<wire x1="195.58" y1="114.3" x2="200.66" y2="114.3" width="0.1524" layer="91"/>
+<junction x="195.58" y="114.3"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="11"/>
@@ -57266,6 +57272,8 @@ by default</text>
 <pinref part="SJ4" gate="G$1" pin="1"/>
 <wire x1="233.68" y1="114.3" x2="226.06" y2="114.3" width="0.1524" layer="91"/>
 <label x="226.06" y="114.3" size="1.778" layer="95"/>
+<wire x1="233.68" y1="114.3" x2="238.76" y2="114.3" width="0.1524" layer="91"/>
+<junction x="233.68" y="114.3"/>
 </segment>
 <segment>
 <pinref part="J2" gate="G$1" pin="12"/>
@@ -57300,6 +57308,8 @@ by default</text>
 <pinref part="SJ5" gate="G$1" pin="1"/>
 <wire x1="195.58" y1="73.66" x2="187.96" y2="73.66" width="0.1524" layer="91"/>
 <label x="187.96" y="73.66" size="1.778" layer="95"/>
+<wire x1="195.58" y1="73.66" x2="200.66" y2="73.66" width="0.1524" layer="91"/>
+<junction x="195.58" y="73.66"/>
 </segment>
 <segment>
 <pinref part="J1" gate="G$1" pin="8"/>
