@@ -10,6 +10,15 @@ I had found many tutorials explaining how to connect NRF24 modules to Pi but no 
 
 Raspberry Pi 40-pin **NRF24-SHIM** mini-HAT.
 
+Features:
+
+- locked Pi headers
+- locked NRF24 headers
+- double set of Pi headers (for inside and outside mount)
+- SPI0/SPI1 bus selection
+- CE/IRQ selection
+- can be used as SHIM (no headers) or HAT (with headers)
+
 Pins Configuration:
 
 |NRF24 Pin|Option 1|Option 2|
@@ -26,6 +35,14 @@ Pins Configuration:
 ## NRF24-mini-SHIM
 
 Raspberry Pi **NTF32-mini-SHIM** micro-HAT.
+
+Features:
+
+- locked Pi headers
+- locked NRF24 headers
+- CE/IRQ selection
+- very small size
+- fits on 26- and 40-pin Pi headers
 
 Pins Configuration:
 
