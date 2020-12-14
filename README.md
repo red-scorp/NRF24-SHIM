@@ -27,11 +27,28 @@ Pins Configuration:
 
 Raspberry Pi **NTF32-mini-SHIM** micro-HAT.
 
-TODO
+Pins Configuration:
+
+|NRF24 Pin|Option 1|Option 2|
+|---------|--------|--------|
+|CE       |GPIO22\*|GPIO25  |
+|CSN      |GPIO8\* |        |
+|SCK      |GPIO11\*|        |
+|MOSI     |GPIO10\*|        |
+|MISO     |GPIO9\* |        |
+|IRQ      |GPIO23  |GPIO24  |
 
 ## BOM
 
-TODO
+Bill Of Materials is currently available only for LCSC Electronic Components Distributor, which is probably cheapest anyway.
+
+### LCSC BOM
+
+|Designator     |Part/Value |Package/Footprint |LCSC # |
+|---------------|-----------|------------------|-------|
+|C1             |Cap. 100nF |0402              |C1525  |
+|C2             |Cap. 1uF   |0603              |C15849 |
+|R1, R2, R3, R4 |Res. 10K   |0402              |C25744 |
 
 ## How to help
 
