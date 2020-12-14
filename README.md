@@ -38,6 +38,8 @@ Pins Configuration:
 |MISO     |GPIO9\* |        |
 |IRQ      |GPIO23  |GPIO24  |
 
+\*) the pin is connected by default.
+
 ## BOM
 
 Bill Of Materials is currently available only for LCSC Electronic Components Distributor, which is probably cheapest anyway.
