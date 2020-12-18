@@ -10,6 +10,12 @@ I had found many tutorials explaining how to connect NRF24 modules to Pi but no 
 
 Raspberry Pi 40-pin **NRF24-SHIM** mini-HAT.
 
+Preview:
+
+![NRF24-SHIM preview](NRF24-SHIM.png)
+
+[Schematics in PDF format](NRF24-SHIM.pdf)
+
 Features:
 
 - locked Pi headers
@@ -35,6 +41,12 @@ Pins Configuration:
 ## NRF24-mini-SHIM
 
 Raspberry Pi **NTF32-mini-SHIM** micro-HAT.
+
+Preview:
+
+![NRF24-mini-SHIM preview](NRF24-mini-SHIM.png)
+
+[Schematics in PDF format](NRF24-mini-SHIM.pdf)
 
 Features:
 
