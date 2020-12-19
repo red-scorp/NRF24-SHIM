@@ -38,6 +38,8 @@ Pins Configuration:
 
 \*) the pin is connected by default.
 
+CAM files are available.
+
 ## NRF24-mini-SHIM
 
 Raspberry Pi **NTF32-mini-SHIM** micro-HAT.
@@ -68,6 +70,8 @@ Pins Configuration:
 |IRQ      |GPIO23  |GPIO24  |
 
 \*) the pin is connected by default.
+
+CAM files are available.
 
 ## BOM
 
