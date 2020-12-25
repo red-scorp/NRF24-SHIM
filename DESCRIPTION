@@ -1,1 +1,32 @@
-Raspberry Pi 40-pin <b>NRF24-SHIM</b> mini-HAT.
+Raspberry Pi 40-pin <b>NRF24-SHIM</b> mini-HAT.<br/>
+Features:
+<ul>
+<li>locked Pi headers</li>
+<li>locked NRF24 headers</li>
+<li>double set of Pi headers (for inside and outside mount)</li>
+<li>SPI0/SPI1 bus selection</li>
+<li>CE/IRQ selection</li>
+<li>can be used as SHIM (no headers) or HAT (with headers)</li>
+</ul>
+
+Raspberry Pi <b>NTF32-mini-SHIM</b> micro-HAT.<br/>
+Features:
+<ul>
+<li>locked Pi headers</li>
+<li>locked NRF24 headers</li>
+<li>CE/IRQ selection</li>
+<li>very small size</li>
+<li>fits on 26- and 40-pin Pi headers</li>
+</ul>
+
+Raspberry Pi zero 40-pin <b>NRF24-zero-SHIM</b> mini-HAT.<br/>
+Features:
+<ul>
+<li>locked Pi headers</li>
+<li>locked NRF24 headers</li>
+<li>Pi zero board style</li>
+<li>SPI0/SPI1 bus selection</li>
+<li>CE/IRQ selection</li>
+<li>double NRF24 configuration possible</li>
+<li>can be used as SHIM (no headers) or HAT (with headers)</li>
+</ul>
