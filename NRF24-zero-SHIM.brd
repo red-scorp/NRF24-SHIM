@@ -200,7 +200,7 @@
 <rectangle x1="23.984" y1="55.345" x2="26.524" y2="57.885" layer="21"/>
 <text x="21.59" y="12.7" size="1.016" layer="22" font="vector" ratio="12" rot="MR0">(c) Andriy Golovnya</text>
 <text x="4.699" y="28.702" size="1.27" layer="21" font="vector" ratio="12" rot="R90">TOP SIDE</text>
-<text x="4.445" y="38.1" size="1.27" layer="22" font="vector" ratio="12" rot="MR270">BOTTOM SIDE</text>
+<text x="4.699" y="38.1" size="1.27" layer="22" font="vector" ratio="12" rot="MR270">BOTTOM SIDE</text>
 <text x="28.429" y="55.091" size="0.6096" layer="21" font="vector" ratio="12">2</text>
 <text x="25.889" y="52.551" size="0.6096" layer="21" font="vector" ratio="12">3</text>
 <text x="28.429" y="52.551" size="0.6096" layer="21" font="vector" ratio="12">4</text>
@@ -687,6 +687,8 @@
 <text x="1.143" y="44.831" size="0.6096" layer="22" font="vector" ratio="12" rot="MR0">P1</text>
 <text x="1.143" y="19.685" size="0.6096" layer="22" font="vector" ratio="12" rot="MR0">P0</text>
 <text x="1.143" y="16.637" size="0.6096" layer="22" font="vector" ratio="12" rot="MR0">P1</text>
+<text x="4.699" y="40.64" size="1.27" layer="21" font="vector" ratio="12" rot="R90">Port 0</text>
+<text x="4.699" y="19.431" size="1.27" layer="21" font="vector" ratio="12" rot="R90">Port 1</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
