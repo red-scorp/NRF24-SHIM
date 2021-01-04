@@ -4,7 +4,14 @@ My NRF24-SHIM (mini-HAT) for Raspberry Pi.
 
 This project came to reality when I was looking for a way to connect standard NRF24L01+ module to my Pi.
 I had found many tutorials explaining how to connect NRF24 modules to Pi but no ready made board or even proper schematics.
-"Hmm... DIY!" I told myself and here we are.
+"Hmm... DIY!" I've told myself and here we are.
+
+Some useful links:
+
+- [pinout.xyz](https://pinout.xyz/) - a brilliant resource on topic of Pi's pinout and HATs.
+- [Communication between Arduino AND Raspberry Pi using NRF24L01](https://medium.com/@anujdev11/communication-between-arduino-and-raspberry-pi-using-nrf24l01-818687f7f363) - how to setup NRF24L01 with Pi.
+- [Funkkommunikation zwischen Raspberry Pi’s und Arduinos (2.4 GHz)](https://tutorials-raspberrypi.de/funkkommunikation-zwischen-raspberry-pis-und-arduinos-2-4-ghz/) - how to setup NRF24L01 with Pi in German.
+- [Connecting an nRF24L01+ to Raspberry Pi](https://www.hackster.io/wirekraken/connecting-an-nrf24l01-to-raspberry-pi-9c0a57) - one more setup example.
 
 ## NRF24-SHIM
 
@@ -113,7 +120,6 @@ Pins Configuration:
 \*) the pin is connected by default.
 
 CAM files are available.
-
 
 ## BOM
 
