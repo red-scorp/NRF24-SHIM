@@ -55179,7 +55179,7 @@ This is just like the LOCK variant in that the holes are staggared by 5 mil, but
 <sheet>
 <plain>
 <text x="256.54" y="7.62" size="2.54" layer="94">1.0</text>
-<text x="198.12" y="7.62" size="2.54" layer="94">PI-NRF24SHIM-0010</text>
+<text x="198.12" y="7.62" size="2.54" layer="94">PI-NRF24S-0010</text>
 <text x="165.1" y="25.4" size="2.54" layer="94">Double-mount NRF24-SHIM for Pi's 40-pin extension slot
 (c) Andriy Golovnya</text>
 <text x="40.64" y="129.54" size="2.54" layer="94">NRF24 connector</text>

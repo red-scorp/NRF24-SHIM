@@ -28255,7 +28255,7 @@ Holes are offset 0.005" from center, locking pins in place during soldering.
 <sheet>
 <plain>
 <text x="256.54" y="7.62" size="2.54" layer="94">1.0</text>
-<text x="198.12" y="7.62" size="2.54" layer="94">PI-NRF24MINISHIM-0010</text>
+<text x="198.12" y="7.62" size="2.54" layer="94">PI-NRF24MS-0010</text>
 <text x="165.1" y="25.4" size="2.54" layer="94">NRF24--mini-SHIM for Pi's 26- and 40-pin extension slot
 (c) Andriy Golovnya</text>
 <text x="43.18" y="116.84" size="2.54" layer="94">NRF24 connector</text>
