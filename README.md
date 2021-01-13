@@ -1,6 +1,6 @@
 # NRF24-SHIM project
 
-My NRF24-SHIM (mini-HAT) for Raspberry Pi.
+NRF24-SHIM (mini-HAT), an interface board for NRF32L01+ radio boards for Raspberry Pi.
 
 This project came to reality when I was looking for a way to connect standard NRF24L01+ module to my Pi.
 I had found many tutorials explaining how to connect NRF24 modules to Pi but no ready made board or even proper schematics.
