@@ -128,11 +128,13 @@ Bill Of Materials is currently available only for LCSC Electronic Components Dis
 
 ### LCSC BOM
 
-|Designator                     |Part/Value |Package/Footprint |LCSC # |
-|-------------------------------|-----------|------------------|-------|
-|C1, C3                         |Cap. 100nF |0402              |C1525  |
-|C2, C4                         |Cap. 1uF   |0603              |C15849 |
-|R1, R2, R3, R4, R5, R6, R7, R8 |Res. 10K   |0402              |C25744 |
+|Designator                      |Part/Value |Package/Footprint |LCSC # |
+|--------------------------------|-----------|------------------|-------|
+|C1, C3\*                        |Cap. 100nF |0402              |C1525  |
+|C2, C4\*                        |Cap. 1uF   |0603              |C15849 |
+|R1, R2, R3, R4, R5, R6, R7, R8\*|Res. 10K   |0402              |C25744 |
+
+\*) These passive components are optional but it's recommended to install them.
 
 ## How to help
 
