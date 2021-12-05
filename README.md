@@ -20,9 +20,9 @@ Raspberry Pi 40-pin **NRF24-SHIM** mini-HAT.
 
 Preview:
 
-![NRF24-SHIM preview](NRF24-SHIM.png)
+![NRF24-SHIM preview](img/NRF24-SHIM.png)
 
-[Schematics in PDF format](NRF24-SHIM.pdf)
+[Schematics in PDF format](doc/NRF24-SHIM.pdf)
 
 Features:
 
@@ -54,9 +54,9 @@ Raspberry Pi **NTF32-mini-SHIM** micro-HAT.
 
 Preview:
 
-![NRF24-mini-SHIM preview](NRF24-mini-SHIM.png)
+![NRF24-mini-SHIM preview](img/NRF24-mini-SHIM.png)
 
-[Schematics in PDF format](NRF24-mini-SHIM.pdf)
+[Schematics in PDF format](doc/NRF24-mini-SHIM.pdf)
 
 Features:
 
@@ -87,9 +87,9 @@ Raspberry Pi zero 40-pin **NRF24-zero-SHIM** mini-HAT.
 
 Preview:
 
-![NRF24-zero-SHIM preview](NRF24-zero-SHIM.png)
+![NRF24-zero-SHIM preview](img/NRF24-zero-SHIM.png)
 
-[Schematics in PDF format](NRF24-zero-SHIM.pdf)
+[Schematics in PDF format](doc/NRF24-zero-SHIM.pdf)
 
 Features:
 
