@@ -6,14 +6,6 @@ This project came to reality when I was looking for a way to connect standard NR
 I had found many tutorials explaining how to connect NRF24 modules to Pi but no ready made board or even proper schematics.
 "Hmm... DIY!" I've told myself and here we are.
 
-Some useful links:
-
-- [pinout.xyz](https://pinout.xyz/) - a brilliant resource on topic of Pi's pinout and HATs.
-- [raspberrypi/hats](https://github.com/raspberrypi/hats) - Pi's HAT specification.
-- [Communication between Arduino AND Raspberry Pi using NRF24L01](https://medium.com/@anujdev11/communication-between-arduino-and-raspberry-pi-using-nrf24l01-818687f7f363) - how to setup NRF24L01 with Pi.
-- [Funkkommunikation zwischen Raspberry Pi’s und Arduinos (2.4 GHz)](https://tutorials-raspberrypi.de/funkkommunikation-zwischen-raspberry-pis-und-arduinos-2-4-ghz/) - how to setup NRF24L01 with Pi in German.
-- [Connecting an nRF24L01+ to Raspberry Pi](https://www.hackster.io/wirekraken/connecting-an-nrf24l01-to-raspberry-pi-9c0a57) - one more setup example.
-
 ## NRF24-SHIM
 
 Raspberry Pi 40-pin **NRF24-SHIM** mini-HAT.
@@ -135,6 +127,14 @@ Bill Of Materials is currently available only for LCSC Electronic Components Dis
 |R1, R2, R3, R4, R5, R6, R7, R8\*|Res. 10K   |0402              |C25744 |
 
 \*) These passive components are optional but it's recommended to install them.
+
+## Links
+
+- [pinout.xyz](https://pinout.xyz/) - a brilliant resource on topic of Pi's pinout and HATs.
+- [raspberrypi/hats](https://github.com/raspberrypi/hats) - Pi's HAT specification.
+- [Communication between Arduino AND Raspberry Pi using NRF24L01](https://medium.com/@anujdev11/communication-between-arduino-and-raspberry-pi-using-nrf24l01-818687f7f363) - how to setup NRF24L01 with Pi.
+- [Funkkommunikation zwischen Raspberry Pi’s und Arduinos (2.4 GHz)](https://tutorials-raspberrypi.de/funkkommunikation-zwischen-raspberry-pis-und-arduinos-2-4-ghz/) - how to setup NRF24L01 with Pi in German.
+- [Connecting an nRF24L01+ to Raspberry Pi](https://www.hackster.io/wirekraken/connecting-an-nrf24l01-to-raspberry-pi-9c0a57) - one more setup example.
 
 ## How to help
 
